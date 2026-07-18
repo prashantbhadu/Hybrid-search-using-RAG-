@@ -2,7 +2,7 @@ pandas
 streamlit
 python-dotenv
 sentence-transformers
-pinecone-client
+pinecone
 pinecone-text
 mmh3
 torchvision
