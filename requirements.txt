@@ -5,3 +5,4 @@ sentence-transformers
 pinecone-client
 pinecone-text
 mmh3
+torchvision
